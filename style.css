@@ -52,6 +52,15 @@ h4 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 
+
+/**
+ * Section
+ */
+ div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /**
  * Paragraphs
  */
